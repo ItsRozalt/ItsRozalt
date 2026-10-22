@@ -1,14 +1,14 @@
 <div id="header" align="center">
-    <h1>Hi there 👋, I'm Timofei302</h1>
+    <h1>Hi there 👋, I'm Rozalt</h1>
 </div>
 <div id="socials" align="center">
-    <a href="https://mastodon.ml/@timofei302">
+    <a href="https://mastodon.ml/@rozalt">
         <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
     </a>
-    <a href="https://t.me/Timofei302">
+    <a href="https://t.me/ItsRozalt">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/@timofei302-official">
+    <a href="https://www.youtube.com/@ItsRozalt">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
     <a href="https://timofei302.su">
